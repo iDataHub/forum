@@ -1,0 +1,2 @@
+export SECRET_KEY="Valar Morghulis"
+export EMAIL_HOST_PASSWORD="DataHuber"
